@@ -1,2 +1,2 @@
-# AnimationIDP
+# AnimationIPD
 Animation for pythagoras proof
