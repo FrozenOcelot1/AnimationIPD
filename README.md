@@ -1,2 +1,2 @@
 # AnimationIPD
-Animation for pythagoras proof
+using pythagoras to calculate approximate of pi 
