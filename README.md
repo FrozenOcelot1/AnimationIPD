@@ -1,2 +1,2 @@
 # AnimationIPD
-Animation for pythagoras proof
+simple manim animation
