@@ -1,2 +1,2 @@
 # AnimationIPD
-using pythagoras to calculate approximate of pi 
+simple manim animation
